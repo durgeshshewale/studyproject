@@ -1,0 +1,6 @@
+
+int a1 = 5, a2 = 5;
+int mul = 0;
+
+mul = a1 * a2;
+System.out.println(mul);
